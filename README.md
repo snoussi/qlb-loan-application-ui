@@ -87,5 +87,6 @@ $ npm start
 
 This will start a server at http://localhost:3000/
 
-## Supporting videos 
-![Rules Update and Hot Deployment](https://vimeo.com/259899040)
+## Supporting videos
+
+[![Rules Update and Hot Deployment]](https://vimeo.com/3514904 "Rules Update and Hot Deployment")
