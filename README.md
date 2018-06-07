@@ -78,6 +78,8 @@ $ cd qlb-loan-application-ui
 $ npm install
 ```
 
+NB: If you face issues installing on Linux [click here](https://github.com/snoussi/qlb-loan-application-ui/issues/1)  
+
 3. We will use the browsersync tool to serve and refresh our web content 
 Start browsersync by running:
 
