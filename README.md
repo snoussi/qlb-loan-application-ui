@@ -1,6 +1,6 @@
 # Quick Loan Bank - UI
 
-Quick Loan Bank UI is an example demo invoking a decision service based on [Red Hat Decision Manager .2](https://www.redhat.com/en/technologies/jboss-middleware/businessrules).
+Quick Loan Bank UI is an example demo invoking a decision service based on [Red Hat Decision Manager 7.2](https://www.redhat.com/en/technologies/jboss-middleware/businessrules).
 
 ![qlb rhdm 7.2 demo](img/qlb_rhdm.png?raw=true)
 
