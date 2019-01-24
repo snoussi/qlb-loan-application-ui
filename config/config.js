@@ -5,6 +5,6 @@ var ENV = {
     'kieserver_port' : '8080',
     'kieserver_contextroot' : '/kie-server',
     'kieserver_containerId' : 'loan-application',
-    'kieserver_user' : 'kieserver',
-    'kieserver_password' : 'kieserver1!'
+    'kieserver_user' : 'dsUser',
+    'kieserver_password' : 'dsUser1!'
 };
